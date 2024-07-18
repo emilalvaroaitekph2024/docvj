@@ -29,7 +29,7 @@
     "next": "latest",
     "next-themes": "^0.2.1",
     "openai": "^4.47.1",
-    "react": "^18",
+    "react": "^19.0.0-rc-163365a0-20240717",
     "react-dom": "^18",
     "react-intersection-observer": "^9.10.2",
     "react-textarea-autosize": "^8.5.3",
